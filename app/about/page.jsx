@@ -43,7 +43,7 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">About me</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-            Hello! I&aposm Ankit Chakrabarty, a Computer Science student at ITER. I have hands-on experience with several programming languages, including React.js, Next.js, and Node.js I&aposm currently expanding my knowledge by learning DevOps. After graduation, I aim to work as a software engineer at a leading tech company, where I can further develop my skills and contribute to innovative projects.
+            Hello! I&apos;m Ankit Chakrabarty, a Computer Science student at ITER. I have hands-on experience with several programming languages, including React.js, Next.js, and Node.js I&apos;m currently expanding my knowledge by learning DevOps. After graduation, I aim to work as a software engineer at a leading tech company, where I can further develop my skills and contribute to innovative projects.
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
@@ -189,7 +189,7 @@ const AboutPage = () => {
                   </div>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
-                   implement AI in your chat app, you can integrate the OpenAI GPT-3 API (or another NLP model) by sending the user&aposs message to the API and receiving an intelligent response. The backend (Node.js) will forward the user query to the AI and return the generated response back to the frontend via Socket.io{" "}
+                   implement AI in your chat app, you can integrate the OpenAI GPT-3 API (or another NLP model) by sending the user&apos;s message to the API and receiving an intelligent response. The backend (Node.js) will forward the user query to the AI and return the generated response back to the frontend via Socket.io{" "}
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
